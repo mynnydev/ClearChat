@@ -1,0 +1,13 @@
+name: ClearChat
+version: '1.0.0-1.21.4'
+main: dev.klayses.clearChat.Main
+api-version: '1.21'
+load: STARTUP
+authors: [ Mynny ]
+description: Fly Plugin
+website: discord.seasonworld.net
+
+commands:
+  clearchat:
+    description: Clear the Chat
+    aliases: [ cc ]
