@@ -2,7 +2,7 @@
 name: Support Request
 about: Ask for help or clarification on how to use ClearChat
 title: "[SUPPORT]"
-labels: question
+labels: compatibility, question
 assignees: ''
 
 ---
